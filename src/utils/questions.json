@@ -1,0 +1,119 @@
+[
+  {
+    "question": "How many Suns do we have?",
+    "answers": [
+      { "label": "1", "isCorrect": true },
+      { "label": "4", "isCorrect": false },
+      { "label": "3", "isCorrect": false },
+      { "label": "2", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who is Klichko?",
+    "answers": [
+      { "label": "actor", "isCorrect": false },
+      { "label": "president", "isCorrect": false },
+      { "label": "mayor of Kyiv", "isCorrect": true },
+      { "label": "tommorrow not everyone can look", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "How many angles are in a triangle?",
+    "answers": [
+      { "label": "1", "isCorrect": false },
+      { "label": "6", "isCorrect": false },
+      { "label": "2", "isCorrect": false },
+      { "label": "3", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "How many Suns do we have?",
+    "answers": [
+      { "label": "1", "isCorrect": true },
+      { "label": "4", "isCorrect": false },
+      { "label": "3", "isCorrect": false },
+      { "label": "2", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In 1893, what country was the first to grant women the right to vote?",
+    "answers": [
+      { "label": "Canada", "isCorrect": false },
+      { "label": "Sweden", "isCorrect": false },
+      { "label": "New Zealand", "isCorrect": true },
+      { "label": "Denmark", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "The shortest distance between two points lying on a curved or flat surface is what type of line?",
+    "answers": [
+      { "label": "Stochastic", "isCorrect": false },
+      { "label": "Isometric", "isCorrect": false },
+      { "label": "Discrete", "isCorrect": false },
+      { "label": "Geodesic", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "The highest mountain in South America is located in what country?",
+    "answers": [
+      { "label": "Brazil", "isCorrect": false },
+      { "label": "Peru", "isCorrect": false },
+      { "label": "Ecuador", "isCorrect": false },
+      { "label": "Argentina", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What kind of animal traditionally lives in a city?",
+    "answers": [
+      { "label": "Cow", "isCorrect": false },
+      { "label": "Pig", "isCorrect": true },
+      { "label": "Fox", "isCorrect": false },
+      { "label": "Teenager", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Semiotics is the study of what?",
+    "answers": [
+      { "label": "Apes", "isCorrect": false },
+      { "label": "Word origins", "isCorrect": false },
+      { "label": "Signs and symbols", "isCorrect": true },
+      { "label": "Flags", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "The comic strip character Garfield the cat hates what day of the week?",
+    "answers": [
+      { "label": "Sunday", "isCorrect": false },
+      { "label": "Monday", "isCorrect": true },
+      { "label": "Thursday", "isCorrect": false },
+      { "label": "Friday", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "On a traditional round clock, what number is 180 degrees from the number 5?",
+    "answers": [
+      { "label": "2", "isCorrect": false },
+      { "label": "6", "isCorrect": false },
+      { "label": "9", "isCorrect": false },
+      { "label": "11", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What continent has the most countries?",
+    "answers": [
+      { "label": "Europe", "isCorrect": false },
+      { "label": "Asia", "isCorrect": false },
+      { "label": "Africa", "isCorrect": true },
+      { "label": "South America", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which two countries currently account for more than a third of Earth's population?",
+    "answers": [
+      { "label": "China and Russia", "isCorrect": false },
+      { "label": "India and China", "isCorrect": true },
+      { "label": "India and Pakistan", "isCorrect": false },
+      { "label": "China and Brazil", "isCorrect": false }
+    ]
+  }
+]
