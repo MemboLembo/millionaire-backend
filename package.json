@@ -9,7 +9,8 @@
     "lint": "eslint './src/**/*.ts' --quiet --fix",
     "prettier": "prettier --config .prettierrc './src/**/*.ts' --write",
     "generate-doc": "apidoc -i ./src -o ./doc",
-    "pre-commit-lint": "yarn lint && yarn prettier"
+    "pre-commit-lint": "yarn lint && yarn prettier",
+    "init": "node ./dist/utils/init.js"
   },
   "husky": {
     "hooks": {
