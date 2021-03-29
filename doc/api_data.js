@@ -19,7 +19,7 @@ define({ "api": [
             "type": "Number",
             "optional": false,
             "field": "limit",
-            "defaultValue": "10",
+            "defaultValue": "12",
             "description": "<p>amount of questions to retreive</p>"
           }
         ]

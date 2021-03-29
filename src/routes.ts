@@ -10,7 +10,7 @@ const router = Router()
  * @apiName GetQuestions
  * @apiGroup Questions
  * @apiVersion 1.0.0
- * @apiParam {Number} limit=10 amount of questions to retreive
+ * @apiParam {Number} limit=12 amount of questions to retreive
  *
  * @apiSuccess {Boolean} success
  * @apiSuccess {Array} data
