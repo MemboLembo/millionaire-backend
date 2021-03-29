@@ -117,33 +117,6 @@
     ]
   },
   {
-    "question": "An electron volt is",
-    "answers": [
-      { "label": "The amount of energy it takes to move an electron through a potential difference of 1 volt", "isCorrect": true },
-      { "label": "The number of volts it takes to move an electon a meter", "isCorrect": false },
-      { "label": "The number of electrons it takes to kill a human being", "isCorrect": false },
-      { "label": "The flux of current through a surface parallel to a capacito", "isCorrect": false }
-    ]
-  },
-  {
-    "question": "An albino gorilla usually has what color fur?",
-    "answers": [
-      { "label": "Brown", "isCorrect": false },
-      { "label": "Black", "isCorrect": false },
-      { "label": "White", "isCorrect": true },
-      { "label": "Golden", "isCorrect": false }
-    ]
-  },
-  {
-    "question": "Leonardo da Vinci",
-    "answers": [
-      { "label": "was a great Italian painter, sculptor and architect", "isCorrect": false },
-      { "label": "got universal fame form his masterpiece - Mona Lisa", "isCorrect": false },
-      { "label": "drew models of organs such as the heart, lungs and womb", "isCorrect": false },
-      { "label": "All of the above", "isCorrect": true }
-    ]
-  },
-  {
     "question": "What are the three primary colors?",
     "answers": [
       { "label": "Red, green, blue", "isCorrect": true },
