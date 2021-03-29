@@ -27,15 +27,6 @@
     ]
   },
   {
-    "question": "How many Suns do we have?",
-    "answers": [
-      { "label": "1", "isCorrect": true },
-      { "label": "4", "isCorrect": false },
-      { "label": "3", "isCorrect": false },
-      { "label": "2", "isCorrect": false }
-    ]
-  },
-  {
     "question": "In 1893, what country was the first to grant women the right to vote?",
     "answers": [
       { "label": "Canada", "isCorrect": false },
@@ -114,6 +105,51 @@
       { "label": "India and China", "isCorrect": true },
       { "label": "India and Pakistan", "isCorrect": false },
       { "label": "China and Brazil", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Oscar Awards were instituted in",
+    "answers": [
+      { "label": "1968", "isCorrect": false },
+      { "label": "1929", "isCorrect": true },
+      { "label": "1901", "isCorrect": false },
+      { "label": "1965", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "An electron volt is",
+    "answers": [
+      { "label": "The amount of energy it takes to move an electron through a potential difference of 1 volt", "isCorrect": true },
+      { "label": "The number of volts it takes to move an electon a meter", "isCorrect": false },
+      { "label": "The number of electrons it takes to kill a human being", "isCorrect": false },
+      { "label": "The flux of current through a surface parallel to a capacito", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "An albino gorilla usually has what color fur?",
+    "answers": [
+      { "label": "Brown", "isCorrect": false },
+      { "label": "Black", "isCorrect": false },
+      { "label": "White", "isCorrect": true },
+      { "label": "Golden", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Leonardo da Vinci",
+    "answers": [
+      { "label": "was a great Italian painter, sculptor and architect", "isCorrect": false },
+      { "label": "got universal fame form his masterpiece - Mona Lisa", "isCorrect": false },
+      { "label": "drew models of organs such as the heart, lungs and womb", "isCorrect": false },
+      { "label": "All of the above", "isCorrect": true }
+    ]
+  },
+  {
+    "question": "What are the three primary colors?",
+    "answers": [
+      { "label": "Red, green, blue", "isCorrect": true },
+      { "label": "Magenta, pink, cyan", "isCorrect": false },
+      { "label": "Yellow, salmon, brown", "isCorrect": false },
+      { "label": "White, grey, black", "isCorrect": false }
     ]
   }
 ]
