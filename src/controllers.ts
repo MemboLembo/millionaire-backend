@@ -20,7 +20,7 @@ export const getQuestions = async (req: Request, res: Response) => {
   }
 
   try {
-    let { limit = 12 } = req.params
+    let { limit = 12 } = req.query
     limit = +limit
 
     response.data = await getQuestionsService(limit)
